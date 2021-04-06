@@ -50,7 +50,7 @@ class BlocoBranco extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       color: Colors.white,
-      height: 100,
+      height: 110,
       margin: EdgeInsets.all(40),
     );
   }
