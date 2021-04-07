@@ -11,7 +11,7 @@ Container's - para criar os blocos;
 Componentização -<b> Class StatelessWidget <b>- Como os blocos que simulam o conteúdo para página se repetiam, fiz uso do método de compentização para aplicar e editar de forma dinâmica. 
 MainAxisAlignment.spaceBetween - Associados a Column e Row, para organizar os elementos na tela. 
 
-## Exercício 1 - Aula 1
+## Exercício 2 - Aula 1
 
 O exercício constitui na construção de uma tela que possui um grid de container's em diferentes posições.
 
